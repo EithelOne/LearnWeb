@@ -1,2 +1,0 @@
-# LearnWeb
-Come and Learn
